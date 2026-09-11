@@ -1,6 +1,9 @@
-hællæ
+HELLOOOO
+Jajaja
 
-hei hei whats up LILBRO
 
 
 ja nå prøver vi igjen her dette her går så flott altså
+hællæ
+hei hei whats up LILBRO
+main
