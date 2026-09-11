@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+hei hallo
+danial tester for 3 gnag
+ronaldo
+ronaldo messi 123
+=======
 HELLOOOO
 Jajaja
 
@@ -14,3 +20,4 @@ Hei
 
 god 
 main
+>>>>>>> main
