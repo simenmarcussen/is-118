@@ -16,3 +16,7 @@ hei hei whats up LILBRO
 
 
 god 
+
+
+
+salam allikom
